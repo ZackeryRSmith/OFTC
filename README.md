@@ -1,2 +1,1 @@
-# OFTC
-Obtain the first chunk of someones discord token via their user id
+Obtain the first chunk of a users discord token based from their user id.
